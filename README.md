@@ -7,6 +7,12 @@
 
 # 需要的联系飞机账号  @ttt88pay  请备注是github看到的 备注彩票系统 ， 不支持白嫖 ， 白嫖党请绕道。系统价格又不贵！！！！！！
 
+# 代码截图
+![11](https://github.com/debug8888/caipiao_system/assets/93066952/f8e33b89-832a-49b8-bf1b-17cdc6079736)
+
+![2](https://github.com/debug8888/caipiao_system/assets/93066952/d639f693-a400-426e-9e00-8da03b224470)
+
+
 
 # 演示如下
 
